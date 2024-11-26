@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Models
+project.Models/bin/
+project.Models/obj/
+
+# Services
+project.Services/bin/
+project.Services/obj/
+
+# ASP.NET Core
+project.APIs/bin/
+project.APIs/obj/
+
+# WPF
+project.Desktop/bin/
+project.Desktop/obj/
+
+# MAUI
+project.Mobile/bin/
+project.Mobile/obj/
+
+# Blazor
+project.Web/bin/
+project.Web/obj/
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+*.snupkg
+
+# Logs
+*.log
