@@ -12,28 +12,28 @@
 [Oo]bj/
 
 # Models
-project.Models/bin/
-project.Models/obj/
+Education.Models/bin/
+Education.Models/obj/
 
 # Services
-project.Services/bin/
-project.Services/obj/
+Education.Services/bin/
+Education.Services/obj/
 
 # ASP.NET Core
-project.APIs/bin/
-project.APIs/obj/
+Education.APIs/bin/
+Education.APIs/obj/
 
 # WPF
-project.Desktop/bin/
-project.Desktop/obj/
+Education.Desktop/bin/
+Education.Desktop/obj/
 
 # MAUI
-project.Mobile/bin/
-project.Mobile/obj/
+Education.Mobile/bin/
+Education.Mobile/obj/
 
 # Blazor
-project.Web/bin/
-project.Web/obj/
+Education.Web/bin/
+Education.Web/obj/
 
 # NuGet Packages
 *.nupkg
